@@ -1,0 +1,17 @@
+
+body {
+  /*background-color: black;*/
+}
+
+#world {
+  font-family: monospace;
+  /*color: white;*/
+  white-space: pre;
+  font-size: 2em;
+  margin-top: 5px;
+}
+
+img {
+  height: .6em;
+  width: .6em;
+}
